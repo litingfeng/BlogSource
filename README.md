@@ -20,3 +20,5 @@ $ git commit -m "add new article"
 $ git push https://github.com/litingfeng/litingfeng.github.io.git master
 ```
 
+Or simply run `./deploy.sh` as an alternative to step2~3.
+
