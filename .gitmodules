@@ -6,3 +6,6 @@
 	path = public.
 	url = git@github.com:litingfeng/litingfeng.github.io.git
 	branch = master
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = https://github.com/sethmacleod/dimension.git
