@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:litingfeng/litingfeng.github.io.git
+	branch = master
+[submodule "public."]
+	path = public.
+	url = git@github.com:litingfeng/litingfeng.github.io.git
+	branch = master
